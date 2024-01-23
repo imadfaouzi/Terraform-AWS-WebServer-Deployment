@@ -1,6 +1,9 @@
 # Terraform AWS Web Server Deployment
 
+
 This repository contains Terraform code to deploy a web server on AWS infrastructure. Follow the instructions below to set up and deploy the infrastructure.
+
+![Alt text](screen-main.png)
 
 ## Designing the Infrastructure
 
